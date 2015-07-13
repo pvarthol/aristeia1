@@ -1,0 +1,2 @@
+nodes
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/legged/tns_ros1/controllers/joystick/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/legged/tns_ros1/controllers/joystick/catkin_ws/install -G Unix Makefiles

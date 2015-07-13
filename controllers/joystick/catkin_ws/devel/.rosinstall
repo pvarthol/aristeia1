@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/legged/tns_ros1/controllers/joystick/catkin_ws/devel/setup.sh

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "nodes")
+set(nodes_MAINTAINER "Athanasios Mastrogeorgiou <mastrothanasis@gmail.com>")
+set(nodes_DEPRECATED "")
+set(nodes_VERSION "1.0.0")
+set(nodes_BUILD_DEPENDS "rospy" "roscpp" "std_msgs" "message_generation")
+set(nodes_RUN_DEPENDS "rospy" "roscpp" "std_msgs" "message_runtime")
+set(nodes_BUILDTOOL_DEPENDS "catkin")

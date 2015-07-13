@@ -1,0 +1,8 @@
+prefix=/home/legged/tns_ros1/controllers/joystick/catkin_ws/devel
+
+Name: nodes
+Description: Description of nodes
+Version: 1.0.0
+Cflags: -I/home/legged/tns_ros1/controllers/joystick/catkin_ws/devel/include
+Libs: -L/home/legged/tns_ros1/controllers/joystick/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime

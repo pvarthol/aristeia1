@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/legged/tns_ros1/controllers/joystick/catkin_ws/src/nodes/src/FL_leg_control.cpp
+stdio.h
+/home/legged/tns_ros1/controllers/joystick/catkin_ws/src/nodes/src/stdio.h
+string.h
+/home/legged/tns_ros1/controllers/joystick/catkin_ws/src/nodes/src/string.h
+stdlib.h
+/home/legged/tns_ros1/controllers/joystick/catkin_ws/src/nodes/src/stdlib.h
+inttypes.h
+-
+ros/ros.h
+/home/legged/tns_ros1/controllers/joystick/catkin_ws/src/nodes/src/ros/ros.h
+nodes/LegEncoders.h
+/home/legged/tns_ros1/controllers/joystick/catkin_ws/src/nodes/src/nodes/LegEncoders.h
+nodes/LegCommand.h
+/home/legged/tns_ros1/controllers/joystick/catkin_ws/src/nodes/src/nodes/LegCommand.h
+nodes/LegPosition.h
+/home/legged/tns_ros1/controllers/joystick/catkin_ws/src/nodes/src/nodes/LegPosition.h
+sstream
+-
+
